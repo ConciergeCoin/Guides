@@ -42,8 +42,8 @@
 
 * From the terminal session, run the following commands
 ```
-mkdir -p ~/.Concierge
-nano ~/.Concierge/Concierge.conf
+mkdir -p ~/.concierge
+nano ~/.concierge/concierge.conf
 ```
 
 * Now add the following lines to this file, replacing any < > field with your information
