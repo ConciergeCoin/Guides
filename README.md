@@ -17,7 +17,7 @@
 
   * From the terminal session, run the following command
   ```
-  wget https://github.com/ConciergeCoin/Concierge/releases/download/V1.0.0.0/Concierge-linux.tar.gz
+  wget https://github.com/ConciergeCoin/Concierge/releases/download/V1.0.0.1/Concierge-linux.tar.gz
   ```
   * From the terminal session, run the following command
   ```
